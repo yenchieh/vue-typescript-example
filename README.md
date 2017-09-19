@@ -1,6 +1,6 @@
-# vue-typescript
+# vue-typescript-example
 
-> A Vue.js project
+> Vue.js with Typescript setup example
 
 ## Build Setup
 
